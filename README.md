@@ -34,3 +34,14 @@ The project will adhere to the CRISP-DM (Cross-Industry Standard Process for Dat
 8. Which product family and stores did the promotions affect.
 9. What is the difference between RMSLE, RMSE, MSE (or why is the MAE greater than all of them?)
 10. Does the payment of wages in the public sector on the 15th and last days of the month influence the store sales.
+
+## Resources
+* The article published on medium can be accessed via this [link](https://)
+* The Power Bi dashboard can also be accessed [here](https://)
+
+## Appreciation
+I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about [Azubi Africa here](https://medium.com/@azubiafrica) and take a few minutes to visit this link to learn more about Azubi Africa life-changing [programs](https://bit.ly/41CGCwK)
+
+## Tags
+[Azubi Data Science](https://bit.ly/3ARq742)
+
