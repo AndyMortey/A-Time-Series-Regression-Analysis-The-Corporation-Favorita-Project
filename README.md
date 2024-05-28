@@ -36,8 +36,8 @@ The project will adhere to the CRISP-DM (Cross-Industry Standard Process for Dat
 10. Does the payment of wages in the public sector on the 15th and last days of the month influence the store sales.
 
 ## Resources
-* The article published on medium can be accessed via this [link](https://)
-* The Power Bi dashboard can also be accessed [here](https://)
+* The article published on medium can be accessed via this [link](https://medium.com/@morteyandrews/a-time-series-regression-analysis-d742882f69b3)
+* The Power Bi dashboard can also be accessed [here](https://app.powerbi.com/groups/me/reports/b91eb228-d90a-4f3a-bbf9-e85c3a6339ed/ReportSection?experience=power-bi&bookmarkGuid=Bookmarkfa80bda3095b0eb57101)
 
 ## Appreciation
 I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about [Azubi Africa here](https://medium.com/@azubiafrica) and take a few minutes to visit this link to learn more about Azubi Africa life-changing [programs](https://bit.ly/41CGCwK)
